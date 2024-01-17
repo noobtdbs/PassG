@@ -1,8 +1,5 @@
-# React + Vite
+# PassGen
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## It is basic react + vite project to implement a password generator app when given length and other conditions.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/noobtdbs/PassG/assets/101515827/9ed01833-10ad-4a25-bccb-7f3913878b5d)
